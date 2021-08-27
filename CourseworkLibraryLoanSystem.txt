@@ -1,0 +1,26 @@
+-------------------------- REPORT -------------------------- 
+				     Date: 21/08/27 (YYMMDD)
+
+Item# | Type | Title | Loan | Date |
+Item - 1 , Book , Never Never , no , 000000
+Item - 2 , Book , Little Women , yes , 210910
+Item - 3 , Book , The Scarlet Letter , yes , 210910
+Item - 4 , Book , The Great Gatsby , no , 000000
+Item - 5 , Book , Gullivers Travels , yes , 210910
+Item - 6 , DVD , The Godfather , yes , 210910
+Item - 7 , DVD , Pulp Fiction , yes , 210910
+Item - 8 , DVD , Young Guns , no , 000000
+Item - 9 , DVD , Scarface , yes , 210910
+Item - 10 , DVD , Se7en , no , 000000
+Item - 11 , CD , Hybrid Theory , no , 000000
+Item - 12 , CD , The Wall , yes , 210910
+Item - 13 , CD , Black In Black , yes , 210910
+Item - 14 , CD , Eagles , no , 000000
+Item - 15 , CD , Thriller , no , 000000
+Item - 16 , Magazine , National Geographic , yes , 210910
+Item - 17 , Magazine , Cosmopolitan , yes , 210910
+Item - 18 , Magazine , AllRecipes , yes , 210910
+Item - 19 , Magazine , Good House Keeping , no , 000000
+Item - 20 , Magazine , The New Yorker , yes , 210910
+ ----------------------------------------------------------
+ TOTAL:   20 items with 12 on loan 
